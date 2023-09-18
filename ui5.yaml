@@ -1,0 +1,8 @@
+specVersion: '3.0'
+metadata:
+  name: "sap-suite-ui-commons-sample--network-graph-car-factory"
+type: application
+resources:
+  configuration:
+    paths:
+      webapp: .
